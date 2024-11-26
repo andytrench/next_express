@@ -1,0 +1,133 @@
+# Python Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# IDE - Other
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Generated Next.js Projects
+test*/
+projects/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Debug
+.debug/
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+.*.swp
+.*.swo
+*~
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+
+# Documentation
+/site
+docs/_build/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+coverage/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Profiling
+.prof
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+local_settings.py
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Backup files
+
+
+
+
+*.bak
+*~
+
+# Next Express specific
+.next-express/
+.next-express-cache/
+next-express.log
+
+# Generated Projects
+projects/
+test*/
+demos/
